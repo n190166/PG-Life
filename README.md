@@ -49,29 +49,4 @@
 - 🏙️ Links to PGs in popular cities
 - 🅿️ Copyright
 
----
 
-## 🚀 User Journey
-
-- ✅ Explore the website without login for a smooth experience
-- 🔐 Login to access **Dashboard** and **Interest Marking**
-- 🔁 Fully responsive and mobile-optimized
-
----
-
-## 🛠️ Exception Handling
-
-All exceptions are handled gracefully with custom messages and UI prompts to ensure a smooth and guided user experience.
-
----
-
-## 👨‍💻 Developer
-
-**Debanjan Sarkar**  
-🔗 [LinkedIn](#) | [GitHub](#)
-
----
-
-## 📜 License
-
-This project is for learning purposes under Internshala's training. All rights reserved by the author.
